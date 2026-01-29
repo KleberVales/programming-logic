@@ -11,3 +11,4 @@
 ## Delve deeper
 
 - Data structures (lists, stacks, queues).
+- Classic algorithms (search, sorting).
