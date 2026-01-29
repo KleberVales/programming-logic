@@ -12,3 +12,4 @@
 
 - Data structures (lists, stacks, queues).
 - Classic algorithms (search, sorting).
+- Computational thinking: decomposition, pattern recognition, abstraction.
