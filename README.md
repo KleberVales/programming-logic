@@ -9,3 +9,5 @@
 - Functions: blocks of code that can be reused.
 
 ## Delve deeper
+
+- Data structures (lists, stacks, queues).
