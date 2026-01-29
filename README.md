@@ -4,3 +4,4 @@
 
 - Variables: store information
 - Operators: mathematical (+, -, *, /) and logical (AND, OR, NOT).
+- Decision structures: if/else (if... then... else).
